@@ -20,4 +20,20 @@
             background: var(--border-primary);
             margin-block: 4rem;
         }
+
+        .amantes-historia {
+            margin-bottom: 6.4rem;
+        }
+
+        .destino-1,
+        .destino-2,
+        .destino-3 {
+            img {
+                height: 35rem;
+                object-fit: cover;
+                margin-bottom: 2rem;
+                border-radius: 2.8rem;
+            }
+        }
+
     }
