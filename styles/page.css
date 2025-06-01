@@ -9,5 +9,9 @@
                 max-height: 66rem;
                 object-fit: cover;
             }
+            p {
+                font-style: italic;
+                text-align: center;
+            }
         }
     }
